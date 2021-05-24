@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370123171838",
+    "firebase_url": "https://friends-1c482-default-rtdb.firebaseio.com",
+    "project_id": "friends-1c482",
+    "storage_bucket": "friends-1c482.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370123171838:android:c81dacc95bb572c56202af",
+        "android_client_info": {
+          "package_name": "com.example.friends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370123171838-hu66q8mcad5989fobm6gqa8pcl7fp2pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk1L6u-h3uv5v4gjzAhlyuPNh1A5VkwGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370123171838-hu66q8mcad5989fobm6gqa8pcl7fp2pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

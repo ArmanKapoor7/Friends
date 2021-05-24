@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Friends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string-array name="seasons">
+        <item>Season 1</item>
+        <item>Season 2</item>
+        <item>Season 3</item>
+        <item>Season 4</item>
+        <item>Season 5</item>
+        <item>Season 6</item>
+        <item>Season 7</item>
+        <item>Season 8</item>
+        <item>Season 9</item>
+        <item>Season 10</item>
+    </string-array>
+
+</resources>
